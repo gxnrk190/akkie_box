@@ -1,0 +1,5 @@
+example1
+
+CONNECT IP_address:port HTTP/1.1
+HOST: dst_IP
+User-Agent: RPS/HTTP PROXY
